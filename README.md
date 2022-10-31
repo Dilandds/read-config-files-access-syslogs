@@ -8,11 +8,11 @@ The config file contains valuable information pertaining to how your script will
   
 2.Menu appears with instructions:
 
-Selection---
-1 System accounts
-2 System logs
-3 Generate Report
-Press Enter to exit
+Selection--- <br />
+1 System accounts <br />
+2 System logs <br />
+3 Generate Report <br />
+Press Enter to exit <br />
 
 3.Options
  1.option 1 - prints to screen all accounts and their group associations sorted alphabetically by account name
