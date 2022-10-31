@@ -9,10 +9,10 @@ The config file contains valuable information pertaining to how your script will
 2.Menu appears with instructions:
 
 Selection--- <br />
-nbsp 1 System accounts <br />
-nbsp 2 System logs <br />
-nbsp 3 Generate Report <br />
-nbsp Press Enter to exit <br />
+&nbsp; 1 System accounts <br />
+&nbsp; 2 System logs <br />
+&nbsp; 3 Generate Report <br />
+&nbsp; Press Enter to exit <br />
 
 3.Options <br />
  nbsp 1.option 1 - p rints to screen all accounts and their group associations sorted alphabetically by account name <br />
