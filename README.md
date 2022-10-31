@@ -9,18 +9,18 @@ The config file contains valuable information pertaining to how your script will
 2.Menu appears with instructions:
 
 Selection--- <br />
-1 System accounts <br />
-2 System logs <br />
-3 Generate Report <br />
-Press Enter to exit <br />
+nbsp 1 System accounts <br />
+nbsp 2 System logs <br />
+nbsp 3 Generate Report <br />
+nbsp Press Enter to exit <br />
 
 3.Options <br />
- 1.option 1 - prints to screen all accounts and their group associations sorted alphabetically by account name <br />
- 2.option 2 - prints to screen system logs from /var/log/ based on the criteria specified in the projectini.ini file <br />
- 3.option 3 - Overwrites the previous file (file path/name specified in projectini.ini file) <br />
-                #Name of computer <br />
-                #Date and time (formatted) <br />
-                #Results from option 1#Results from option 2 <br />
+ nbsp 1.option 1 - p rints to screen all accounts and their group associations sorted alphabetically by account name <br />
+ nbsp 2.option 2 - prints to screen system logs from /var/log/ based on the criteria specified in the projectini.ini file <br />
+ nbsp 3.option 3 - Overwrites the previous file (file path/name specified in projectini.ini file) <br />
+           ensp     #Name of computer <br />
+           ensp     #Date and time (formatted) <br />
+           ensp     #Results from option 1#Results from option 2 <br />
                 
               
 # How the code fulfilled the requirements
